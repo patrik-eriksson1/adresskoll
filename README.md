@@ -63,7 +63,8 @@ fungera: ladda ner på samma sätt och ersätt den gamla filen. Det du har spara
 **Starta programmet** genom att dubbelklicka på **Adresskoll**. Programmet öppnas i din
 webbläsare (Safari, Chrome, Edge eller liknande). Sedan följer du stegen på skärmen:
 
-1. **Öppna medlemsfilen** – välj `Alla.xlsx` och skriv filens lösenord.
+1. **Öppna medlemsfilen** – tryck **Välj medlemsfil**, välj `Alla.xlsx`, skriv filens
+   lösenord i rutan som dyker upp och tryck **Enter**.
 2. **Kontrollera adresserna** – tryck **Starta kontrollen**. Det tar ungefär en
    halvtimme. Programmet visar hela tiden vad det gör just nu.
    - Du kan trycka **Pausa** när du vill och **Fortsätt** när du vill fortsätta.
@@ -73,10 +74,12 @@ webbläsare (Safari, Chrome, Edge eller liknande). Sedan följer du stegen på s
    - **Börja om från början** tar bort allt och kontrollerar alla på nytt.
 3. **Gå igenom resultatet** – börja med fliken **Att granska**. För varje person
    trycker du **Ja, byt till den nya adressen** eller **Nej, behåll den gamla**.
-   - *Troligen flyttat* – samma namn och ålder på en annan adress.
-   - *Oklart* – flera möjliga personer. Klicka på rätt person i listan.
-   - *Hittades inte* – sök själv med knapparna hitta.se, Ratsit, Merinfo eller Eniro,
-     skriv in den nya adressen och tryck **Ja, byt till den nya adressen**.
+   Programmet visar tydligt vad som ändras (t.ex. ”Flyttat till en annan ort: Stockholm → Lund”).
+   - *Troligen flyttat* – samma namn och ålder på en annan adress. Kontrollera förslaget.
+   - *Oklart* – flera möjliga personer. Tryck **Kolla på Ratsit**, se vem som är rätt,
+     och klicka sedan på rätt person i listan.
+   - *Hittades inte* – tryck **Kolla på Ratsit**. Hittar du personen, skriv in den nya
+     adressen och tryck **Ja, byt till den nya adressen**. Annars **Nej, behåll den gamla**.
    - Du kan rätta i adressfälten innan du godkänner.
 4. **Spara ny medlemsfil** – knappen längst ner. Två filer sparas i mappen
    **Dokument → Bulletin-adresskoll**:
@@ -87,8 +90,9 @@ webbläsare (Safari, Chrome, Edge eller liknande). Sedan följer du stegen på s
    Tryck **Visa filerna** för att öppna mappen. Titta igenom den nya filen och använd
    den sedan i stället för den gamla. Behåll gärna den gamla som säkerhetskopia.
 
-Tryck **Avsluta** uppe till höger när du är klar. (Glömmer du det stänger programmet
-sig självt efter en kvart utan aktivitet. Det du gjort är sparat.)
+När du är klar stänger du bara fliken i webbläsaren – programmet stänger sig självt
+efter några sekunder. (Du kan också trycka **Stäng programmet** uppe till höger.)
+Det du har gjort är alltid sparat.
 
 ## Bra att veta
 
